@@ -14,6 +14,7 @@
 }
    .container{
     display: flex;
+    align-items: center;
     justify-content: center;
     width: 100%;
     margin-top: 50px;
@@ -21,7 +22,7 @@
    }
 
    .card{
-    background-color: aliceblue;
+    background-color: rgb(103, 123, 143);
     padding: 30px;
     border-radius: 4%;
     box-shadow: 3px 3px 1px 0px;
